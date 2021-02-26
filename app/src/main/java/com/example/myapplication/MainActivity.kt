@@ -9,5 +9,10 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // primeira alteração
+
+
+        // Nova alteracao
+
+        // segunda alteracao de codigo para commit
     }
 }
