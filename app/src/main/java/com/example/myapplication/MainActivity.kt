@@ -11,7 +11,6 @@ class MainActivity : AppCompatActivity() {
         // primeira alteração
 
 
-        // Nova alteracao
 
         // segunda alteracao de codigo para commit
     }
