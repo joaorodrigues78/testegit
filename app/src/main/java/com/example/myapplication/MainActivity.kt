@@ -16,7 +16,5 @@ class MainActivity : AppCompatActivity() {
 
 
         // novo commit teste
-
-        // method E
     }
 }
